@@ -13,7 +13,7 @@
   <a href="https://github.com/lumen-argus/lumen-argus"><img src="https://img.shields.io/github/license/lumen-argus/lumen-argus?style=flat-square" alt="License"></a>
   <a href="https://github.com/lumen-argus/lumen-argus/actions/workflows/test.yml"><img src="https://github.com/lumen-argus/lumen-argus/actions/workflows/test.yml/badge.svg" alt="Tests"></a>
   <a href="https://lumen-argus.github.io/lumen-argus/docs/"><img src="https://img.shields.io/badge/docs-mkdocs-blue?style=flat-square" alt="Docs"></a>
-  <img src="https://img.shields.io/badge/python-3.9+-blue?style=flat-square&logo=python&logoColor=white" alt="Python 3.9+">
+  <img src="https://img.shields.io/badge/python-3.11+-blue?style=flat-square&logo=python&logoColor=white" alt="Python 3.11+">
 </p>
 
 ---

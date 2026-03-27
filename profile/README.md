@@ -53,22 +53,9 @@ AI coding assistants send your code context to external APIs on every request. T
 - **Zero external dependencies at runtime** - pure Python with optional extras
 - **Enterprise features** available with Pro license (NLP PII detection, SIMD acceleration, scheduled analysis, compliance reports)
 
-## Quick Start
+## Getting Started
 
-```bash
-pip install lumen-argus
-lumen-argus --port 8080
-```
-
-Then point your AI tool's proxy setting to `http://localhost:8080`.
-
-**Docker:**
-
-```bash
-docker run -p 8080:8080 ghcr.io/lumen-argus/lumen-argus:latest
-```
-
-See the [documentation](https://lumen-argus.github.io/lumen-argus/docs/) for configuration, rule customization, and deployment guides.
+See the [documentation](https://lumen-argus.github.io/lumen-argus/docs/) for installation, configuration, and deployment guides.
 
 ## License
 
